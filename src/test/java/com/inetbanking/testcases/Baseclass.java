@@ -8,6 +8,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.RandomStringUtils;
+import org.apache.commons.lang3.RandomUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.OutputType;
@@ -72,6 +74,11 @@ public class Baseclass {
 		File finaldestination=new File(destination);
 		FileUtils.copyFile(source, finaldestination);
 		System.out.println("Screenshot taken");
+	}
+	public String randomString()
+	{
+		String generatedstring=RandomStringUtils.randomAlphabetic(8);
+		return generatedstring;
 	}
 	
 	

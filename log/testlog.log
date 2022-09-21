@@ -108,3 +108,64 @@
 [2022-09-20 21:53:50,014] INFO 24075[main] - com.inetbanking.testcases.TC_Logintdd_002.loginDDT(TC_Logintdd_002.java:20) - username provided
 [2022-09-20 21:53:50,091] INFO 24152[main] - com.inetbanking.testcases.TC_Logintdd_002.loginDDT(TC_Logintdd_002.java:22) - password provided
 [2022-09-20 21:53:54,687] INFO 28748[main] - com.inetbanking.testcases.TC_Logintdd_002.loginDDT(TC_Logintdd_002.java:35) - login passed
+[2022-09-21 14:56:32,179] INFO     0[main] - com.inetbanking.testcases.Baseclass.setup(Baseclass.java:58) - url is opened
+[2022-09-21 14:56:35,487] INFO  3308[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:20) - entered username
+[2022-09-21 14:56:35,587] INFO  3408[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:22) - entered password
+[2022-09-21 14:56:45,451] INFO 13272[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:34) - Providing Customer details....
+[2022-09-21 14:59:44,631] INFO     0[main] - com.inetbanking.testcases.Baseclass.setup(Baseclass.java:58) - url is opened
+[2022-09-21 14:59:47,914] INFO  3283[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:20) - entered username
+[2022-09-21 14:59:48,002] INFO  3371[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:22) - entered password
+[2022-09-21 14:59:53,980] INFO  9349[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:34) - Providing Customer details....
+[2022-09-21 15:01:06,033] INFO     0[main] - com.inetbanking.testcases.Baseclass.setup(Baseclass.java:58) - url is opened
+[2022-09-21 15:01:09,327] INFO  3294[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:20) - entered username
+[2022-09-21 15:01:09,420] INFO  3387[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:22) - entered password
+[2022-09-21 15:01:14,909] INFO  8876[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:34) - Providing Customer details....
+[2022-09-21 15:14:45,919] INFO     0[main] - com.inetbanking.testcases.Baseclass.setup(Baseclass.java:58) - url is opened
+[2022-09-21 15:14:49,219] INFO  3300[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:20) - entered username
+[2022-09-21 15:14:49,303] INFO  3384[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:22) - entered password
+[2022-09-21 15:14:58,726] INFO 12807[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:34) - Providing Customer details....
+[2022-09-21 15:15:29,697] INFO     0[main] - com.inetbanking.testcases.Baseclass.setup(Baseclass.java:58) - url is opened
+[2022-09-21 15:15:33,018] INFO  3321[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:20) - entered username
+[2022-09-21 15:15:33,099] INFO  3402[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:22) - entered password
+[2022-09-21 15:15:44,130] INFO 14433[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:34) - Providing Customer details....
+[2022-09-21 15:22:51,021] INFO     0[main] - com.inetbanking.testcases.Baseclass.setup(Baseclass.java:58) - url is opened
+[2022-09-21 15:22:54,329] INFO  3308[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:20) - entered username
+[2022-09-21 15:22:54,408] INFO  3387[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:22) - entered password
+[2022-09-21 15:23:05,828] INFO 14807[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:34) - Providing Customer details....
+[2022-09-21 15:25:17,796] INFO     0[main] - com.inetbanking.testcases.Baseclass.setup(Baseclass.java:58) - url is opened
+[2022-09-21 15:25:21,095] INFO  3299[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:20) - entered username
+[2022-09-21 15:25:21,182] INFO  3386[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:22) - entered password
+[2022-09-21 15:25:32,434] INFO 14638[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:33) - Providing Customer details....
+[2022-09-21 15:30:02,290] INFO     0[main] - com.inetbanking.testcases.Baseclass.setup(Baseclass.java:58) - url is opened
+[2022-09-21 15:30:05,614] INFO  3324[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:20) - entered username
+[2022-09-21 15:30:05,701] INFO  3411[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:22) - entered password
+[2022-09-21 15:30:15,912] INFO 13622[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:33) - Providing Customer details....
+[2022-09-21 15:35:31,694] INFO     0[main] - com.inetbanking.testcases.Baseclass.setup(Baseclass.java:58) - url is opened
+[2022-09-21 15:35:34,992] INFO  3298[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:20) - entered username
+[2022-09-21 15:35:35,077] INFO  3383[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:22) - entered password
+[2022-09-21 15:35:46,153] INFO 14459[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:33) - Providing Customer details....
+[2022-09-21 15:37:52,001] INFO     0[main] - com.inetbanking.testcases.Baseclass.setup(Baseclass.java:58) - url is opened
+[2022-09-21 15:37:55,315] INFO  3314[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:20) - entered username
+[2022-09-21 15:37:55,403] INFO  3402[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:22) - entered password
+[2022-09-21 15:38:06,221] INFO 14220[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:33) - Providing Customer details....
+[2022-09-21 15:38:46,256] INFO 54255[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:60) - Validation started...
+[2022-09-21 15:40:38,594] INFO     0[main] - com.inetbanking.testcases.Baseclass.setup(Baseclass.java:58) - url is opened
+[2022-09-21 15:40:41,889] INFO  3295[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:20) - entered username
+[2022-09-21 15:40:41,971] INFO  3377[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:22) - entered password
+[2022-09-21 15:40:52,506] INFO 13912[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:33) - Providing Customer details....
+[2022-09-21 15:42:22,690] INFO     0[main] - com.inetbanking.testcases.Baseclass.setup(Baseclass.java:58) - url is opened
+[2022-09-21 15:42:25,992] INFO  3302[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:20) - entered username
+[2022-09-21 15:42:26,071] INFO  3381[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:22) - entered password
+[2022-09-21 15:42:36,633] INFO 13943[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:33) - Providing Customer details....
+[2022-09-21 15:45:34,493] INFO     0[main] - com.inetbanking.testcases.Baseclass.setup(Baseclass.java:58) - url is opened
+[2022-09-21 15:45:37,786] INFO  3293[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:20) - entered username
+[2022-09-21 15:45:37,867] INFO  3374[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:22) - entered password
+[2022-09-21 15:45:48,756] INFO 14263[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:33) - Providing Customer details....
+[2022-09-21 15:46:31,542] INFO 57049[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:60) - Validation started...
+[2022-09-21 15:46:31,567] INFO 57074[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:65) - Test is passed
+[2022-09-21 15:53:17,934] INFO     0[main] - com.inetbanking.testcases.Baseclass.setup(Baseclass.java:58) - url is opened
+[2022-09-21 15:53:21,240] INFO  3306[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:20) - entered username
+[2022-09-21 15:53:21,325] INFO  3391[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:22) - entered password
+[2022-09-21 15:53:32,498] INFO 14564[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:33) - Providing Customer details....
+[2022-09-21 15:54:15,397] INFO 57463[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:60) - Validation started...
+[2022-09-21 15:54:15,420] INFO 57486[main] - com.inetbanking.testcases.TC_AddCustomerTest_003.addNewCustomer(TC_AddCustomerTest_003.java:65) - Test is passed
